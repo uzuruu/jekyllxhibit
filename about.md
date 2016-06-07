@@ -1,3 +1,10 @@
+---
+published: true
+layout: default
+
+title: About
+category: exhibit
+
 We propose:
     <br>
     <ol>
