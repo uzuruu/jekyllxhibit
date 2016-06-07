@@ -227,7 +227,7 @@ a:visited {
 
 /* line 23, ../sass/screen.scss */
 a:hover {
-    background-color: grey;
+    background-color: light-grey;
 }
 
 /* line 24, ../sass/screen.scss */
@@ -342,7 +342,7 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #fff;
+  background: #eef6f5;
   /* line-height: 1.3em; */
 }
 
