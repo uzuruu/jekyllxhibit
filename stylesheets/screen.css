@@ -227,7 +227,7 @@ a:visited {
 
 /* line 23, ../sass/screen.scss */
 a:hover {
-    background-color: light-grey;
+    text-decoration: underline;
 }
 
 /* line 24, ../sass/screen.scss */
